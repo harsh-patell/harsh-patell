@@ -2,7 +2,7 @@
 
 I am currently:
 * 👀 Interested in the fields of Robotics, Machine Learning, and Backend Engineering
-* 🚙 Exploring vehicle localization, SLAM algorithms, and neural networks at [WATonomous](https://www.watonomous.ca/)
+* 🚙 Exploring vehicle localization and SLAM algorithms [WATonomous](https://www.watonomous.ca/)
 * 🎒 Studying Computer Science at the University of Waterloo
 
 Previously built projects as:
