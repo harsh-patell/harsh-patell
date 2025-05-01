@@ -2,8 +2,8 @@
 
 I am currently:
 * 👀 Interested in the fields of Robotics, Machine Learning, and Backend Engineering
-* 🚙 Exploring vehicle localization and SLAM algorithms @ [WATonomous](https://www.watonomous.ca/)
 * 🎒 Studying Computer Science at the University of Waterloo
+* 🦾 Building robotic infrastructure and algorithms @ [Amazon - Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics) (Summer 2025)
 
 Previously built projects as:
 * 🚀 Software Engineer @ [Constant Contact](https://www.constantcontact.com/) (Summer 2024)
