@@ -1,7 +1,7 @@
 ## Hi, I'm Harsh 👋🏽
 
 I am currently:
-* 👀 Interested in the fields of Robotics, Machine Learning, and Backend Engineering
+* 👀 Interested in robotics, machine learning, and backend engineering
 * 🎒 Studying Computer Science at the University of Waterloo
 * 🦾 Building robotics infrastructure and algorithms @ [Amazon - Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics) (Summer 2025)
 
