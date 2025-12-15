@@ -1,11 +1,12 @@
 ## Hi, I'm Harsh 👋🏽
 
 I am currently:
-* 👓 Software Engineer Intern @ [Meta](https://www.meta.com) (Fall 2025)
+* 💼 Seeking 2026 New Grad Opportunities
 * 👀 Interested in robotics, machine learning, and backend engineering
 * 🎒 Studying Computer Science at the University of Waterloo
 
 Previously built projects as:
+* 👓 Software Engineer @ [Meta](https://www.meta.com) (Fall 2025)
 * 🦾 Software Engineer @ [Amazon - Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics) (Summer 2025)
 * 🚀 Software Engineer @ [Constant Contact](https://www.constantcontact.com/) (Summer 2024)
 * 🤖 Robotics Software Engineer @ [OTTO Motors - Rockwell Automation](https://ottomotors.com/) (Fall 2023)
